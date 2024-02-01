@@ -3,7 +3,7 @@
 Bienvenido a Sysvet, un sistema de gestión veterinaria basado en arquitectura de microservicios. Este proyecto está diseñado para ofrecer una solución eficiente y escalable para veterinarias y clinicas veterinarias, permitiendo una administración completa de sus operaciones.
 
 ## Características destacadas:
-**Microservicios Modulares: **La arquitectura se compone de microservicios independientes, facilitando la escalabilidad y el mantenimiento.
+**Microservicios Modulares:** La arquitectura se compone de microservicios independientes, facilitando la escalabilidad y el mantenimiento.
 
 
 ## Tecnologías Utilizadas:
